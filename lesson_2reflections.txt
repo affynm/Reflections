@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 A new hidden .git directory is created in order to include the commits on my working file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a middle area before comitting into the repository
