@@ -34,3 +34,4 @@ And test the rest of the comments to find out which one exactly caused the error
 Now that you have your workspace set up, what do you want to try using Git for?
 
 To show how all the steps of Git works, all the required steps.
+show
